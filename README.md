@@ -3,9 +3,9 @@
   
   <div id="badges">
     
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucas-gonzález-2b13892a9)
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gonzález-2b13892a9)
+  [![Instagram Badge](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lukiiiiiii.04/)
+  [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LucGr04)
   </div>
   
   <img src="https://komarev.com/ghpvc/?username=lucasgonzalezz&style=flat-square&color=blue" alt=""/>
@@ -19,7 +19,7 @@ Soy un apasionado programador principiante con sede en Valencia, España, recié
 
 🚀 Estoy dando mis primeros pasos como desarrollador Full Stack, explorando las complejidades del frontend y backend para construir emocionantes aplicaciones web.
 
-🌱 Mi sed de conocimiento me lleva a sumergirme en el fascinante mundo de la redacción técnica, mientras continúo aprendiendo y creciendo en mi carrera.
+🌱 Mi sed de conocimiento me lleva a sumergirme en el fascinante mundo del desarrollo de aplicaciones, mientras continúo aprendiendo y creciendo en mi carrera.
 
 🎓 Me enorgullece haber completado mi formación en DAW, y estoy emocionado por las oportunidades que se presentarán en mi viaje como desarrollador.
 

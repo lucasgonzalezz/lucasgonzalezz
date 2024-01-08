@@ -14,14 +14,15 @@
 
 ### :man_technologist: About Me:
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from València, Spain.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+Soy un apasionado programador principiante con sede en Valencia, España, recién graduado en Desarrollo de Aplicaciones Web (DAW).
 
-- :seedling: Exploring Technical Content Writing.
+🚀 Estoy dando mis primeros pasos como desarrollador Full Stack, explorando las complejidades del frontend y backend para construir emocionantes aplicaciones web.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+🌱 Mi sed de conocimiento me lleva a sumergirme en el fascinante mundo de la redacción técnica, mientras continúo aprendiendo y creciendo en mi carrera.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+🎓 Me enorgullece haber completado mi formación en DAW, y estoy emocionado por las oportunidades que se presentarán en mi viaje como desarrollador.
+
+📫 Puedes encontrarme y conectarte conmigo a través de mi perfil de Linkedin. ¡Estoy ansioso por aprender y contribuir al mundo del desarrollo de software!
 
 ---
 

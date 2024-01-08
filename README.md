@@ -10,15 +10,10 @@
   <img src="https://komarev.com/ghpvc/?username=lucasgonzalezz&style=flat-square&color=blue" alt=""/>
   
   <h1>Hola, soy Lucas González<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-  
-  <div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  </div> 
 </div>
 
----
-
 ### :man_technologist: About Me:
+
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from València, Spain.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
@@ -30,7 +25,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -52,12 +47,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lucasgonzalezz&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucasgonzalezz&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!---
 lucasgonzalezz/lucasgonzalezz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
